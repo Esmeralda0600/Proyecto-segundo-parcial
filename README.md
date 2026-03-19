@@ -1,10 +1,10 @@
-# 🛡️ Marvel Quiz — Trivia del Universo
+#  Marvel Quiz — Trivia del Universo
 
 > Pon a prueba tu conocimiento del Universo Cinematográfico y de los Cómics Marvel.
 
 ---
 
-## 📖 Descripción
+##  Descripción
 
 **Marvel Quiz** es una aplicación web de trivia interactiva ambientada en el Universo Marvel. Los jugadores se registran como agentes S.H.I.E.L.D., ingresan al cuartel y enfrentan misiones de preguntas sobre personajes, películas, cómics, villanos y eventos icónicos del UCM.
 
@@ -14,7 +14,7 @@ La interfaz está diseñada con una estética oscura inspirada en los cómics cl
 
 ---
 
-## ✨ Características
+##  Características
 
 ### Autenticación
 - Registro de nuevos agentes con nombre de héroe y contraseña
@@ -46,6 +46,3 @@ npm run dev
 
 ---
 
-<p align="center">
-  Made with ❤️ by agents of S.H.I.E.L.D. &nbsp;|&nbsp; S.H.I.E.L.D. Protocol 084 Active 🔴
-</p>
