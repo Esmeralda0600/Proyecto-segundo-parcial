@@ -1,7 +1,5 @@
-# Reclutamiento Avengers — Trivia S.H.I.E.L.D.
+# Descricion de pantallas trivia Marvel
 
-> Plataforma de reclutamiento de agentes mediante pruebas de conocimiento del universo Marvel.  
-> Solo los más preparados acceden al cuartel.
 
 ---
 
