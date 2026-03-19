@@ -38,7 +38,7 @@ La interfaz está diseñada con una estética oscura inspirada en los cómics cl
 ## 🚀 Pasos
 
 ```bash
-git clone https://github.com/tu-usuario/marvel-quiz.git
+git clone https://github.com/Esmeralda0600/marvel-quiz.git
 cd marvel-quiz
 npm install
 npm run dev
