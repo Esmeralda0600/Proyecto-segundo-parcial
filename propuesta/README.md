@@ -1,11 +1,11 @@
-# 🛡️ Reclutamiento Avengers — Trivia S.H.I.E.L.D.
+# Reclutamiento Avengers — Trivia S.H.I.E.L.D.
 
 > Plataforma de reclutamiento de agentes mediante pruebas de conocimiento del universo Marvel.  
 > Solo los más preparados acceden al cuartel.
 
 ---
 
-## 🖥️ Pantallas
+## Pantallas
 
 ### Pantalla 1 — Login (`/login`)
 
@@ -16,7 +16,7 @@ Página de acceso al cuartel. Punto de entrada para agentes registrados y nuevos
 - **Título** `RECLUTAMIENTO AVENGERS` con efecto de brillo rojo y tipografía italizada
 - **Campo de nombre de héroe** — placeholder `IDENTITY_REQUIRED`, ícono de identidad
 - **Campo de contraseña** — placeholder `ENCRYPTION_KEY`, ícono de candado con toggle de visibilidad
-- **Botón** `ACCESO AL CUARTEL ⚡` con efecto de barrido al hover
+- **Botón** `ACCESO AL CUARTEL ` con efecto de barrido al hover
 - **Enlace** `¿NUEVO HÉROE? ÚNETE AL EQUIPO` para registro de nuevos agentes
 - **Indicadores de estado** del protocolo S.H.I.E.L.D.:
   - Punto pulsante + `SECURE_LINK_ACTIVE`
@@ -44,8 +44,8 @@ Pantalla principal de juego. El agente demuestra su conocimiento del universo Ma
 - Texto de la pregunta destacado
 - **Grid 2×2** con 4 opciones de respuesta:
   - Estado por defecto: borde neutro, fondo oscuro
-  - ✅ **Respuesta correcta:** resaltado en verde con ícono de confirmación
-  - ❌ **Respuesta incorrecta:** resaltado en rojo con ícono de error; se revela la opción correcta
+  -  **Respuesta correcta:** resaltado en verde con ícono de confirmación
+  -  **Respuesta incorrecta:** resaltado en rojo con ícono de error; se revela la opción correcta
 - **Banner de resultado** (visible tras responder):
   - Indicador visual de acierto o fallo
   - Explicación breve de la respuesta correcta
@@ -53,7 +53,7 @@ Pantalla principal de juego. El agente demuestra su conocimiento del universo Ma
 
 ---
 
-## 🎨 Diseño y Estética
+## Diseño y Estética
 
 ### Paleta de colores
 
@@ -80,7 +80,7 @@ Pantalla principal de juego. El agente demuestra su conocimiento del universo Ma
 
 ---
 
-## 🗄️ Modelo de Base de Datos (MongoDB)
+## Modelo de Base de Datos (MongoDB)
 
 Las preguntas se obtienen de una API externa y son enriquecidas con explicaciones generadas por IA (Claude). El modelo está diseñado para cachear ese contenido y evitar llamadas repetidas.
 
