@@ -18,7 +18,7 @@ Página de acceso al cuartel. Punto de entrada para agentes registrados y nuevos
 - **Enlace** `¿NUEVO HÉROE? ÚNETE AL EQUIPO` para registro de nuevos usuarios
 
 ---
-
+<img src="login.png" alt="Preview" width="600" />
 ### Pantalla 2 — Trivia (`/quiz`)
 
 Pantalla principal de juego. El usuario demuestra su conocimiento del universo Marvel respondiendo preguntas relacionadas a superhéroes.
@@ -43,7 +43,7 @@ Pantalla principal de juego. El usuario demuestra su conocimiento del universo M
   - Indicador visual de acierto o fallo
   - Explicación breve de la respuesta correcta
 - **Botón** `SIGUIENTE PREGUNTA →` para avanzar al siguiente ítem
-
+<img src="trivia.png" alt="Preview" width="600" />
 ---
 
 ## Modelo de Base de Datos (MongoDB)
